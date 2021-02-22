@@ -1,0 +1,7 @@
+{
+  "name": "com.multiverse.findtypeindex",
+  "displayName": "Find Type Index",
+  "version": "0.0.1",
+  "unity": "2020.1",
+  "description": "在Editor中通过TypeIndex查找对应的脚本名称"
+}
